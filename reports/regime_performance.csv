@@ -1,0 +1,4 @@
+Regime,Bars,Frequency,Avg Duration,Avg Exposure,Asset Vol,Fixed CAGR,Fixed Sharpe,Adaptive CAGR,Adaptive Sharpe
+Low Risk (Calm Bull),3499,53.9%,63.6 days,0.95x,12.0%,9.6%,0.85,9.5%,0.85
+Medium Risk (Transitional),2430,37.4%,35.7 days,0.29x,19.5%,3.7%,0.41,2.2%,0.38
+High Risk (Turbulent Crisis),567,8.7%,16.2 days,0.07x,41.7%,5.4%,0.56,-1.5%,-0.25

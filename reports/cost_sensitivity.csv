@@ -1,0 +1,5 @@
+Cost Level (bps),Fixed CAGR,Fixed Sharpe,Fixed MaxDD,Adaptive CAGR,Adaptive Sharpe,Adaptive MaxDD,Sharpe Diff (B - A)
+0.0 bps,11.64%,0.940,19.81%,8.71%,0.846,16.44%,-0.094
+5.0 bps,11.32%,0.916,20.68%,8.43%,0.822,16.61%,-0.095
+10.0 bps,11.00%,0.893,21.55%,8.15%,0.797,16.78%,-0.096
+15.0 bps,10.68%,0.870,22.41%,7.88%,0.773,17.43%,-0.097
